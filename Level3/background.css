@@ -1,0 +1,30 @@
+div{
+    height:100px;
+    width: 100px;
+    background-color: aqua;
+    border: 2px solid black;
+    display: inline-block;
+    color: white;
+    
+}
+
+#box1{
+background-image: url("calf.jpg");
+background-size: cover;
+
+}
+#box2{
+    background-image: url("kitty.jpg");
+    background-size: cover;
+    
+    }
+    #box3{
+        background-image: url("puppy.jpg");
+        background-size: cover;
+        
+        }
+        #box4{
+            background-image: url("rabbit.jpg");
+            background-size: cover;
+            
+            }

@@ -1,0 +1,13 @@
+/* *{
+    color: pink;
+} */
+/*universal selector*/
+
+h1{
+    color: green;
+}
+/*element selector*/
+
+.myClass{
+    color: purple;
+}

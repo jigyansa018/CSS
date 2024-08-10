@@ -1,0 +1,11 @@
+div{
+    width: 100px;
+    height: 100px;
+    padding: 25px;
+    margin: 25px;
+    
+}
+button{
+    display: block;
+    background-color: blue;
+}

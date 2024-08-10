@@ -1,0 +1,16 @@
+h1{
+    color: rgb(123, 255, 0);
+}
+p{
+    color:gold;
+}
+button{
+    color: rgb(210, 45, 225);
+}
+
+body{
+    background-color: rgb(212, 40, 201);
+}
+button{
+    background-color: cyan;
+}
